@@ -1,0 +1,5 @@
+This folder contains the python scripts used to manage and analyze MQC-MD simulations of Na2+ in liquid Ar
+
+The main analysis library is dimer_dissoc_analysis.py, though will see that not all functions were complete.
+
+Will also find some python scripts meant to be run from terminal, such as V_eff.py, na_centered_pot.py, q_distr.py, etc.
