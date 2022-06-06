@@ -1,3 +1,9 @@
 This folder contains the jupyter notebooks used to carry out the majority of my data analysis for published works
 
 Na2+_Ar was used for https://pubs.acs.org/doi/full/10.1021/acs.jpclett.0c02515
+
+egap_fluctuations was used to create figure 1 of the solvent environments paper
+egap_structure_profile was used to create gaussian fits shown in the solvent environments paper and was also used to explore how
+  the solvent environments change with Na--Na distance
+egap_structure_profile2 collects the statistical measures of egap_structure_profile and creates figures 3 and 4 of the solvent environments paper
+
