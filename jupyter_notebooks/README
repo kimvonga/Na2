@@ -7,3 +7,6 @@ egap_structure_profile was used to create gaussian fits shown in the solvent env
   the solvent environments change with Na--Na distance
 egap_structure_profile2 collects the statistical measures of egap_structure_profile and creates figures 3 and 4 of the solvent environments paper
 
+Na2(THF)+_clusters and Na2(THF)+_clusters2 were used to look at the (4,5) and (5,5) gas phase trajectories mentioned in the photoisomerization paper
+  Na2(THF)+_clusters looks at individual trajectories to get a general sense of the behavior
+  Na2(THF)+_clusters2 takes lessons of other notebook and creates ensemble averages, which were used in the publication
