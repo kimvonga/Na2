@@ -10,3 +10,7 @@ egap_structure_profile2 collects the statistical measures of egap_structure_prof
 Na2(THF)+_clusters and Na2(THF)+_clusters2 were used to look at the (4,5) and (5,5) gas phase trajectories mentioned in the photoisomerization paper
   Na2(THF)+_clusters looks at individual trajectories to get a general sense of the behavior
   Na2(THF)+_clusters2 takes lessons of other notebook and creates ensemble averages, which were used in the publication
+Na2(THF)+_liq and Na2(THF)+_liq2_Sr were used to look at (4,5) and (5,5) dissociation in liquid THF
+  Na2(THF)+_liq looks at individual trajectories to get a general sense of the behavior
+  Na2(THF)+_liq2_Sr creates ensemble averages, which were used in the publication
+
